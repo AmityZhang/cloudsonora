@@ -1,1 +1,1 @@
-https://github.com/AmityZhang/cloudsonora/settings
+https://github.com/AmityZhang/cloudsonora/
