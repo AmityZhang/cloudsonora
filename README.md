@@ -1,1 +1,1 @@
-https://github.com/AmityZhang/cloudsonora/
+https://amityzhang.github.io/cloudsonora/
