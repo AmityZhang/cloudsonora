@@ -1,0 +1,70 @@
+html{
+    font-family: "Noto Sans TC","Microsoft JhengHei","Segoe UI","微軟正黑體",sans-serif;
+}
+
+.navbar-brand{
+    span{
+    text-indent: 101%;
+    white-space: nowrap;
+    overflow: hidden;
+    background-image: url(../img/logoName.png);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 200px;
+    }
+}
+
+h1{
+    width: 100px;
+    margin-bottom: 0;
+    margin-right: auto;
+   text-indent: 101%;
+    white-space: nowrap;
+    overflow: hidden;
+    background-image:url(../img/h1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.bg-dlack{
+    background-color: #03161d;
+}
+
+.bg-cover{
+    background-position: center 60%;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+#banner{
+    .carousel-item{
+    height: 450px;
+    }
+    .banner-1{
+        background-image: url(../img/banner3.png);
+    }
+    .banner-2{
+        background-image: url(../img/banner2.png);
+        background-position: center 50%;
+    }
+    .banner-3{
+        background-image: url(../img/banner1.png);
+        background-position: center 60%;
+    }
+    .banner-4{
+        background-image: url(../img/banner4.png);
+        background-position: center 43%;
+    }
+}
+
+.carousel-indicators{
+    li{
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}
